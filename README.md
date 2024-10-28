@@ -1,7 +1,7 @@
 # README
 
 ## Local setup
-1. Install dependencies
+1. Install dependencies, seed data:
 ```
 # FE deps
 yarn install
